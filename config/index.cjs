@@ -6,6 +6,7 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
+    USE_PASSAGE: 'push-deer',
     "APP_ID": "wxfffe83633c47f36a",
     "APP_SECRET": "6dffbb63f057680f245c0c4cf565c9ce",
     "IS_SHOW_COLOR": true,
@@ -19,7 +20,7 @@ const USER_CONFIG = {
     "USERS": [
         {
             "name": "宝宝",
-            "id": "op0Su6FL4trZo89kL8m8b_3donhc",
+            "id": "PDU31275TRj1PAi78jS30ZIxkJXyh6MYhzbBNVTQc",
             "useTemplateId": "0001",
             "province": "福建",
             "city": "泉州",
