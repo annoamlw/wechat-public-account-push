@@ -20,7 +20,7 @@ const USER_CONFIG = {
     "USERS": [
         {
             "name": "宝宝",
-            "id": "PDU31275TRj1PAi78jS30ZIxkJXyh6MYhzbBNVTQc",
+            "id": "PDU31284TjRjUThyFvztyPJFwHrdFDpm3EnSyjkfB",
             "useTemplateId": "0001",
             "province": "福建",
             "city": "泉州",
